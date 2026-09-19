@@ -1,0 +1,90 @@
+{
+  "item": {
+    "id": "com.application.watch.赛罗.debug.1.0.0.rpk",
+    "restype": "quick_app",
+    "name": "奥特曼（赛罗）电子宠物",
+    "description": "收录了赛罗的所有形态，共计13位奥特曼!快来养成解锁图鉴吧\n\n原价3.99，首周限时2.99!\n\n优惠套餐:\n后续总共会出10个奥特曼应用，10个假面骑士应用，45个数码宝贝应用和鬼灭之刃，咒术回战等若干应用。如试玩后觉得好玩且信任作者，可以选择购买套餐，非常划算!\n\n15.9元  所有奥特曼应用\n15.9元  所有假面骑士应用\n39.9元  所有数码宝贝应用\n49.9元  所有奥特曼+假面骑士+数码宝贝+鬼灭            之刃+咒术回战应用\n\n累计售卖满999份(所有奥特曼，假面骑士，数码兽加在一起)抽小米手环11!说到做到，绝不食言!\n\n下载后根据页面提示激活\n\n玩家qq群:1103901620\n\n1.达到指定进化值触发进化。第一到第二阶段，第二到第三阶段进化值达到500触发进化，后续阶段进化值达到5000触发进化。进化值获取途径有两种，一是点击奥特曼给其充能(电子木鱼玩法)，点击一次计1点进化值(并出现奥特纹章)。二是将应用作为伪表盘期间(含熄屏)，走一步计1点进化值。奥特曼睡觉后点击和走路都不计算进化值，并且会生气。点击速度和走路速度越快奥特曼心率越高，根据心率奥特曼会切换4套不同动作(静息，轻有氧，有氧，无氧)\n\n2.奥特曼清醒期间(7:00-23:00)超过12小时没有增加进化值则会死亡，出现坟墓。点击坟墓复活，重新从光开始\n\n3.左滑进入动态图鉴，显示已养成奥特曼，展示第5套动作\n\n4.时间显示颜色跟随主题奥特曼\n\n5.进化线纯随机，未知的乐趣。进化到第六阶段后会回到光重新开始新一轮进化\n\n6.占用空间非常小，可以同时装载多个，同时养成多个奥特曼",
+    "preview": [
+      "media/4f7a6417c78c41ffc833c09267654fb0.jpg",
+      "media/48f8bb256982fbb74c84b3890578d9b6.jpg"
+    ],
+    "icon": "media/logo (1).png",
+    "cover": "media/c2d349019ef6cd278d709f46b84889f8.jpg",
+    "author": [
+      {
+        "name": "killer71",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "小红书",
+      "url": "https://xhslink.cn/o/6Tl9epF5Pgr",
+      "icon": "Book"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.application.watch.赛罗.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.application.watch.赛罗.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.application.watch.赛罗.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.application.watch.赛罗.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.application.watch.赛罗.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.application.watch.赛罗.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.application.watch.赛罗.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.application.watch.赛罗.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.application.watch.赛罗.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.application.watch.赛罗.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.application.watch.赛罗.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.application.watch.赛罗.debug.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
